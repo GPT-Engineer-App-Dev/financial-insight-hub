@@ -9,6 +9,9 @@ const colors = {
     800: "#153e75",
     700: "#2a69ac",
   },
+  background: {
+    100: "#f3f2ef", // Financial Times background color
+  },
 };
 
 const theme = extendTheme({ colors });
